@@ -3,5 +3,5 @@
 #### bootstrap
 
 ```bash
-curl -L git.io/JL7wc | sh -s <password>
+curl -L git.io/JL7wc | sh -s <password> <profile>
 ```
